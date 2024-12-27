@@ -5,7 +5,7 @@ While the organizations can be navigated by different categories, it is difficul
 
 This webscraping project automates this extraction process to maintain an updated database of these 600+ studnet organizations as a resource for all Associate Directors and staff at the UC San Diego Career Center. 
 
-# File Navigation
+### File Navigation
 - ProjectNotebook.ipynb: Demo of automated extraction on one student organization url.
 - functions.py: All webscraping funcitons.
 - test_functions.py: Assert tests on functions.
